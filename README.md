@@ -23,3 +23,35 @@ New popular language to look out for are Rust and Go. Flask is the new lightweig
 ## Necessary acknowledgements 
 
 Big thanks to Udacity reviews for the comments to make this project better.
+
+## Project Questions
+### Business Understanding - Brief description
+Trying to understand the usage and trends in language and dataframe usage with developers in the StackOverFlow 2020 Survey.
+#### Question 1
+What are most popular languages and frameworks that developers have used?
+#### Question 2
+What are most popular languages and frameworks that developers want to use in the future?
+#### Question 3
+Is there any new languages or frameworks that developers want to use? Are there any supprising trends?
+
+## Data Understanding
+#### Access and Explore
+Data was downloaded from StackOverflow website.
+#### Prepare Data
+Reading in the dataset to Jupyter Notebook in the Pandas framework. Left original column names.
+#### Wrangle and Clean
+Did not clean or remove Nan values from dataset. 
+#### Modeling
+Only selected columns that I needed to answear my questions. 
+
+#### Question 1 - What are most popular languages and frameworks that developers have used?
+##### Analyse, Visualise, Explain the visualisation
+
+#### Question 2 - What are most popular languages and frameworks that developers want to use in the future?
+##### Analyse, Visualise, Explain the visualisation
+
+#### Question 3 - What are the trends and suprising new languages gainig popularity?
+##### Analyse, Visualise, Explain the visualisation
+
+
+#### Evaluation and findings
