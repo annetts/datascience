@@ -38,18 +38,23 @@ Did not clean or remove Nan values from dataset.
 Only selected columns that I needed to answear my questions. 
 
 #### Question 1 - What are most popular languages and frameworks that developers have used?
-##### Analyse, Visualise, Explain the visualisation
-
+After cleaning the data and getting only the columns of interest, I found out that in 2020 to most popular language developers have used is JavaScript. Followed by a close second HTML/CSS (which is not an official language, but let’s move forward with it) and the popular database query language SQL as third.
 ![1](https://github.com/annetts/datascience/blob/master/images/1.PNG)
+Now languages that developers wanted to work within a year. The top of the list seems to look pretty much the same with little differences. Two languages that developers wanted to use in the future but hadn’t used in the last year of coding: Rust and Go. Both new and interesting languages with a growing fan base.
+![2](https://github.com/annetts/datascience/blob/master/images/2.PNG)
 
 #### Question 2 - What are most popular languages and frameworks that developers want to use in the future?
-##### Analyse, Visualise, Explain the visualisation
+Not that surprised by the popularity of jQuery, React, and Angular. Although the fact that React is the second most popular language is sort of mind-boggling. A few years back I did not know anybody who had used it in a work project. On a side project maybe, but not at work.
+![3](https://github.com/annetts/datascience/blob/master/images/3.PNG)
+Seems like jQuery has lost it’s popularity and React has gained a lot of attention.
+One completely new framework in the top ten is Flask. It’s a lightweight Python web application framework, that has gained considerable popularity in a short period of time.
+![4](https://github.com/annetts/datascience/blob/master/images/4.PNG)
 
 #### Question 3 - What are the trends and suprising new languages gainig popularity?
-##### Analyse, Visualise, Explain the visualisation
+JavaScript still very very relavant in the development world. With it React and Angular have gained a lot of popularity. JQuery on the other hand has lost fans. Some newcomers include developers are more and more excited to use are Flask, Rust and Go. 
 
+#### Evaluation and findings
+In conclusion it can be read from the data that mostly the languages and frameworks don't change from what is used and what developers want to use in a year or so. Some new languages and frameworks did pop up. Some that I think are not well known. Popularity of Javascript, Python and Java seems like neverending.  
 
 ## Necessary acknowledgements 
 Big thanks to Udacity reviews for the comments to make this project better.
-
-#### Evaluation and findings
