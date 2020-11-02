@@ -40,7 +40,7 @@ Only selected columns that I needed to answear my questions.
 #### Question 1 - What are most popular languages and frameworks that developers have used?
 ##### Analyse, Visualise, Explain the visualisation
 
-![1](/images/1.png)
+![1](https://github.com/annetts/datascience/blob/master/images/1.PNG)
 
 #### Question 2 - What are most popular languages and frameworks that developers want to use in the future?
 ##### Analyse, Visualise, Explain the visualisation
